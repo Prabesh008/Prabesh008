@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prabesh Khati Chhetri</h1>
-<h3 align="center">An ethusiastic frontend developer</h3>
+<h3 align="center">A developer exploring the different possibilites of technology</h3>
 
 - 📫 How to reach me **prabeshkhati40@gmail.com**
 
